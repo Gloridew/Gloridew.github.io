@@ -14,10 +14,10 @@ main:
  # - title: "Talks"
  #   url: /talks/    
 
-  - title: "Studying"
+  - title: "学习历程"
     url: /studying/    
     
-  - title: "Updates"
+  - title: "动态"
     url: /updates/
         
 #  - title: "Blog Posts"
