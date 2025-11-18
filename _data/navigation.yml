@@ -15,10 +15,10 @@ main:
  #   url: /talks/    
 
   - title: "Studying"
-    url: /Studying/    
+    url: /studying/    
     
   - title: "Updates"
-    url: /Updates/
+    url: /updates/
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
