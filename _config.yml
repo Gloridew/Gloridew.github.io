@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile_new.jpg"
-  name             : "Your Sidebar Name"
+  name             : "张武阳"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "东北四非五年制生化环材在读。"
   location         : "Harbin,China"
   employer         : "Harbin Medical University"
   uri              : # URL
