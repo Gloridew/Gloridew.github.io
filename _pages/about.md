@@ -22,7 +22,7 @@ redirect_from:
 此外，我还是腾讯IEG事业群市场与用户研究部（i-MUR）未来信号空间站第15期文化观察研究员（2025.11-2026.04），在网络上的常用ID为“嘉兰露”或其英文“Gloridew”。
 
 ## 学习历程
-- 2025.11：  最近在尝试鼓捣机器学习的相关东西，尝试观看吴恩达的一系列课程（如他在Coursera上的机器学习课程和Stanford CS229的课程录像等），总之还是按照[北大信科CS自学指南](https://csdiy.wiki/)上的推荐来的，以及阅读一些知乎文章，刷一些bilibili的视频，以及读了上海财经大学滕佳烨老师的一本小册子：[机器学习理论简明手册](https://www.tengjiaye.com/mlbook.html>)。
+- 2025.11：  最近在尝试鼓捣机器学习的相关东西，尝试观看吴恩达的一系列课程（如他在Coursera上的机器学习课程和Stanford CS229的课程录像），总之还是按照[北大信科CS自学指南](https://csdiy.wiki/)上的推荐来的，以及阅读一些知乎文章，刷一些bilibili的视频，另外，读了上海财经大学滕佳烨老师的一本小册子：[机器学习理论简明手册](https://www.tengjiaye.com/mlbook.html>)。
 - 2025.04：  按照丘成桐大学生竞赛考纲以及一些其他文章的推荐学习概率论，开始阅读一些书籍如程士宏《测度论与概率论基础》、荆炳义老师的高等概率论讲义、Durret的《Probability:Theroy and Examples》以及清华吴昊老师的讲义，并准备写一个知乎专栏，先堆了一些东西作为[第一篇文章](https://zhuanlan.zhihu.com/p/1896211781103378956)。
 
 更多内容详见[学习历程](https://gloridew.github.io/studying/)。
