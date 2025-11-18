@@ -12,16 +12,11 @@ redirect_from:
 About me
 ======
 我叫张武阳，目前就读于哈尔滨医科大学生物信息学系本科二年级。我正在积极寻求大三转学，目前在考虑申请的项目有筑波大学（日本）国际医学等。
-
 我在研究上的兴趣包括但不限于：
-
 哲学（逻辑学、教会哲学），脑科学、神经科学（计算神经科学、认知神经科学），数学（分析学、概率论），统计学等等。
-
 我正在积极寻求AI4S方向的研究实习(Remote)或寒暑假短期访问学生（Onsite）位置。
-
 我在个人生活上的兴趣包括：
-
-追番、二游、剧情独游等。此外，我还是腾讯IEG事业群市场与用户研究部(i-MUR)未来信号空间站第15期文化观察研究员（2025.11-2026.04），在网络上的常用ID为“嘉兰露”或其英文“Gloridww”。
+追番、二游、剧情独游等。此外，我还是腾讯IEG事业群市场与用户研究部(i-MUR)未来信号空间站第15期文化观察研究员（2025.11-2026.04），在网络上的常用ID为“嘉兰露”或其英文“Gloridew”。
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
