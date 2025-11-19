@@ -23,7 +23,7 @@ redirect_from:
 
 ## 学习历程
 - 2025.11：  最近在尝试鼓捣机器学习的相关东西，尝试观看吴恩达的一系列课程（如他在Coursera上的机器学习课程和Stanford CS229的课程录像），总之还是按照[北大信科CS自学指南](https://csdiy.wiki/)上的推荐来的，以及阅读、观看一些知乎上的相关文章和bilibili上的相关视频。另外，读了上海财经大学滕佳烨老师的一本小册子：[《机器学习理论简明手册》](https://www.tengjiaye.com/mlbook.html)。
-- 2025.04：  按照丘成桐大学生数学竞赛[考纲](http://yau-contest.com/uploads/allfiles/exam/SyllabusonProbbilityandStatistics.pdf)以及一些其他文章的推荐学习概率论，开始阅读一些书籍如程士宏《测度论与概率论基础》、荆炳义老师的高等概率论讲义、Durret的《Probability:Theroy and Examples》以及清华吴昊老师的讲义，并准备写一个知乎专栏，先堆了一些东西作为[第一篇文章](https://zhuanlan.zhihu.com/p/1896211781103378956)。
+- 2024.12 - 2025.04：  按照丘成桐大学生数学竞赛[考纲](http://yau-contest.com/uploads/allfiles/exam/SyllabusonProbbilityandStatistics.pdf)以及一些其他文章的推荐学习概率论，开始阅读一些书籍如程士宏《测度论与概率论基础》、荆炳义老师的高等概率论讲义、Durret的《Probability:Theroy and Examples》以及清华吴昊老师的讲义，并准备写一个知乎专栏，先堆了一些东西作为[第一篇文章](https://zhuanlan.zhihu.com/p/1896211781103378956)。
 
 更多内容详见[学习历程](https://gloridew.github.io/studying/)。
 
