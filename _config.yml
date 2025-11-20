@@ -268,10 +268,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _studying
   - scope:
       path: ""
-      type: portfolio
+      type: studying
     values:
       layout: single
       author_profile: true
