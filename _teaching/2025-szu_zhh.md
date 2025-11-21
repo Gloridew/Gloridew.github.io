@@ -2,7 +2,7 @@
 title: "深圳大学何振宏课题组"
 collection: teaching
 type: "研究实习"
-permalink: /teaching/2025-spring-teaching-3
+permalink: /updates/szu_zhh
 venue: "深圳大学脑疾病与认知科学研究中心"
 date: 2025-08-13
 location: "Remote"
