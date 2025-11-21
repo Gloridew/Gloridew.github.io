@@ -2,7 +2,7 @@
 title: "腾讯i-MUR未来信号空间站第15期"
 collection: teaching
 type: "线上研究训练营"
-permalink: /teaching/2025-spring-teaching-3
+permalink: /teaching/2025-spring-teaching-4
 venue: "腾讯IEG事业群市场与用户研究部（i-MUR）"
 date: 2025-11-01
 location: "Remote"
