@@ -1,0 +1,20 @@
+---
+title: "腾讯i-MUR未来信号空间站第15期"
+collection: teaching
+type: "线上研究训练营"
+permalink: /teaching/2025-spring-teaching-3
+venue: "腾讯IEG事业群市场与用户研究部（i-MUR）"
+date: 2025-11-01
+location: "Remote"
+---
+
+This is a description of a teaching experience. You can use markdown like any other post.
+
+Heading 1
+======
+
+Heading 2
+======
+
+Heading 3
+======
