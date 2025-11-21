@@ -2,7 +2,7 @@
 title: "丘成桐大学生数学竞赛"
 collection: teaching
 type: "考试"
-permalink: /teaching/2025-spring-teaching-5
+permalink: /updates/yau_contest
 venue: "科目：概率与统计，考点：哈尔滨工业大学"
 date: 2025-05-17
 location: "中国，哈尔滨"
