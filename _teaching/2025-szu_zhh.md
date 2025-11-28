@@ -8,7 +8,7 @@ date: 2025-08-13
 location: "Remote"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+出于对脑科学和认知科学的兴趣，很高兴能够接受何振宏老师和课题组内两位师姐的指导。负责的主要工作是fMRI数据的处理与分析。
 
 Heading 1
 ======
