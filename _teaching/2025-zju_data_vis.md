@@ -8,7 +8,7 @@ date: 2025-07-13
 location: "中国，杭州"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+和浙大计科及图灵班的65位同学及其他学校的22位同学一起度过了一段有趣的时光！除了正常的Basics和Tutorial外，还有很多有意义的、不那么偏技术向的Lecture，印象最深的是PSU的张小龙教授的Research Thinking in Action:What,Why,and How to Start.
 
 Heading 1
 ======
