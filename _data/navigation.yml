@@ -20,8 +20,8 @@ main:
   - title: "动态"
     url: /updates/
         
-  - title: "笔记"
-    url: /notes/
+ # - title: "笔记"
+ #   url: /notes/
     
   - title: "CV"
     url: /cv/
