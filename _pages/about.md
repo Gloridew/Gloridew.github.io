@@ -19,8 +19,8 @@ I am a sophomore majoring in Bioinformatics at Harbin Medical University. Curren
 - Visiting Student at the Center for Integrated Medical Research, Keio University(Japan), supervised by Prof. Kenji F. Tanaka, Jul.2026 – Aug.2026(Expected)
 - Project Researcher at Tencent i-MUR 'Sign of Future' program, Nov. 2025 – Apr. 2026(Expected)
 - Research Intern at the Center for Brain Diseases and Cognitive Science, Shenzhen University, supervised by Zhenhong He, Aug. 2025 – Present
-- 2025 Fudan Mathematical Logic Summer School, School of Philosophy, Fudan University, Jul.2025 - Aug.2025
-- 2025 Zhejiang University SDG Global Summer School - Data Visualization, State Key Laboratory of CAD＆CG, Zhejiang University, Jul.2025
+- 2025 Fudan Mathematical Logic Summer School, School of Philosophy, Jul.2025 - Aug.2025
+- 2025 Zhejiang University SDG Global Summer School - Data Visualization, State Key Laboratory of CAD＆CG, Jul.2025
 
 
 ## 学习历程
