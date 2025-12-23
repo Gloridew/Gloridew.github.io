@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "张武阳的个人主页"
+title: "Wuyang Zhang's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-## 关于我
+## About me
 我叫张武阳，目前就读于哈尔滨医科大学生物信息学系本科二年级。  
 
 我在研究上的兴趣包括但不限于：  
