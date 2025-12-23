@@ -8,13 +8,20 @@ redirect_from:
 ---
 
 
-
-
 I am a sophomore majoring in Bioinformatics at Harbin Medical University. Currently, I am a research intern at the Center for Brain Diseases and Cognitive Science, Shenzhen University, under the supervision of Asst. Prof. Zhenhong He, responsible for the processing and modeling analysis of fMRI data. I will join the Center for Integrated Medical Research, Keio University School of Medicine as a visiting student in the summer of 2026, under the guidance of Prof. Kenji F. Tanaka, to further study neuroanatomy, with a particular focus on structural MRI and super resolution microscopy.
 
-我在个人生活上的兴趣包括：  
-追番、听一些术力口音乐、玩一些剧情向独立游戏等。  
-此外，我还是腾讯IEG事业群市场与用户研究部（i-MUR）「未来信号空间站」第15期文化观察研究员（2025.11-2026.04），在网络上的常用ID为“嘉兰露”或其英文“Gloridew”。
+## Research Interests
+
+## Education
+- B.S. in Bioinformatics at Harbin Medical University, Sep.2024 - Jun.2029(Expected)
+
+## Experience
+- Visiting Student at the Center for Integrated Medical Research, Keio University(Japan), supervised by Prof. Kenji F. Tanaka, Jul.2026 – Aug.2026(Expected)
+- Project Researcher at Tencent i-MUR 'Sign of Future' program, Nov. 2025 – Apr. 2026(Expected)
+- Research Intern at the Center for Brain Diseases and Cognitive Science, Shenzhen University, supervised by Zhenhong He, Aug. 2025 – Present
+- 2025 Fudan Mathematical Logic Summer School, School of Philosophy, Fudan University, Jul.2025 - Aug.2025
+- 2025 Zhejiang University SDG Global Summer School - Data Visualization, State Key Laboratory of CAD＆CG, Zhejiang University, Jul.2025
+
 
 ## 学习历程
 - 2025.11：  最近在尝试鼓捣机器学习的相关东西，尝试观看吴恩达的一系列课程（如他在Coursera上的机器学习课程和Stanford CS229的课程录像），总之还是按照[北大信科CS自学指南](https://csdiy.wiki/)上的推荐来的，以及阅读、观看一些知乎上的相关文章和bilibili上的相关视频。另外，读了上海财经大学滕佳烨老师的一本小册子：[《机器学习理论简明手册》](https://www.tengjiaye.com/mlbook.html)。
