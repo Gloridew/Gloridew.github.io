@@ -10,12 +10,7 @@ redirect_from:
 
 
 
-我叫张武阳，目前就读于哈尔滨医科大学生物信息学系本科二年级。  
-
-我在研究上的兴趣包括但不限于：  
-哲学（数理逻辑），脑科学、神经科学（计算神经科学、认知神经科学），数学（分析学、概率论），统计学等等。  
-作为低年级交叉学科本科生，我希望能够利用我的本科时光尽可能地探索我可能感兴趣的领域以期找到研究生阶段乃至整个人生中值得我为之深入研究的事物。  
-**我正在积极寻求AI及AI4S方向的长期研究实习（Remote）或寒暑假短期访问学生（Onsite）位置。**
+I am a sophomore majoring in Bioinformatics at Harbin Medical University. Currently, I am a research intern at the Center for Brain Diseases and Cognitive Science, Shenzhen University, under the supervision of Assistant Professor Zhenhong He, responsible for the processing and modeling analysis of fMRI data. I will join the Center for Integrated Medical Research, Keio University School of Medicine as a visiting student in the summer of 2026, under the guidance of Prof. Kenji F. Tanaka, to further study neuroanatomy, with a particular focus on structural MRI and super resolution microscopy.
 
 我在个人生活上的兴趣包括：  
 追番、听一些术力口音乐、玩一些剧情向独立游戏等。  
