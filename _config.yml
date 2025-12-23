@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "张武阳"
+title                    : "Wuyang Zhang"
 title_separator          : "-"
-name                     : &name "张武阳"
+name                     : &name "Wuyang Zhang"
 description              : &description "personal description"
 url                      : https://gloridew.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,11 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile_new.jpg"
-  name             : "张武阳"
+  name             : "Wuyang Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Visiting Student (Expected, Summer 2026) at Keio University School of Medicine, Advisor: Kenji F. Tanaka      
-  Undergraduate in Bioinformatics, Harbin Medical University     
-  Tencent i-MUR 「Sign of Future」15th"
+  bio              : "Undergraduate in Bioinformatics, Harbin Medical University"
   location         : "Harbin,China"
   employer         : "Harbin Medical University"
   uri              : # URL
