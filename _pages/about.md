@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I am a sophomore majoring in Bioinformatics at Harbin Medical University. Currently, I am a research intern at the Center for Brain Diseases and Cognitive Science, Shenzhen University, under the supervision of Assistant Professor Zhenhong He, responsible for the processing and modeling analysis of fMRI data. I will join the Center for Integrated Medical Research, Keio University School of Medicine as a visiting student in the summer of 2026, under the guidance of Prof. Kenji F. Tanaka, to further study neuroanatomy, with a particular focus on structural MRI and super resolution microscopy.
+I am a sophomore majoring in Bioinformatics at Harbin Medical University. Currently, I am a research intern at the Center for Brain Diseases and Cognitive Science, Shenzhen University, under the supervision of Asst. Prof. Zhenhong He, responsible for the processing and modeling analysis of fMRI data. I will join the Center for Integrated Medical Research, Keio University School of Medicine as a visiting student in the summer of 2026, under the guidance of Prof. Kenji F. Tanaka, to further study neuroanatomy, with a particular focus on structural MRI and super resolution microscopy.
 
 我在个人生活上的兴趣包括：  
 追番、听一些术力口音乐、玩一些剧情向独立游戏等。  
