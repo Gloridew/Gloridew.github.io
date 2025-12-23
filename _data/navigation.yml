@@ -14,17 +14,17 @@ main:
  # - title: "Talks"
  #   url: /talks/    
 
-  - title: "学习历程"
-    url: /studying/    
+ # - title: "学习历程"
+ #   url: /studying/    
     
-  - title: "动态"
-    url: /updates/
+ # - title: "动态"
+ #   url: /updates/
         
  # - title: "笔记"
  #   url: /notes/
     
-  - title: "CV"
-    url: /cv/
+ # - title: "CV"
+ #   url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
